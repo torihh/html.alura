@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do Campo à Cidade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Do Campo à Cidade</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Da Vida no Campo à Vida na Cidade</h2>
+            <p>Sair do campo para a cidade é uma jornada cheia de desafios e oportunidades. Muitos agricultores deixam suas propriedades rurais em busca de melhores condições de vida, empregos mais variados e acesso a serviços urbanos. Esta transição pode ser difícil, pois a vida no campo é marcada por uma conexão direta com a natureza e uma rotina que, embora exigente, é muito diferente da agitação das cidades.</p>
+            <p>No entanto, a vida urbana oferece vantagens como acesso a educação, saúde e outras oportunidades que podem beneficiar as futuras gerações. A adaptação pode levar tempo, mas a experiência do campo pode enriquecer a vida na cidade de formas únicas.</p>
+        </section>
+        <section>
+            <h2>A Feira de Produtos Orgânicos</h2>
+            <p>As feiras de produtos orgânicos são um elo vital entre o campo e a cidade. Elas oferecem aos moradores urbanos a chance de comprar alimentos frescos e livres de produtos químicos, diretamente dos produtores locais. Esses mercados não só promovem uma alimentação saudável, mas também incentivam a economia local, ajudando pequenos agricultores a prosperar.</p>
+            <p>Além disso, as feiras promovem a conscientização sobre a importância da produção sustentável e o impacto ambiental da agricultura convencional. Comprar produtos orgânicos é um passo em direção a um estilo de vida mais sustentável e consciente.</p>
+        </section>
+        <section>
+            <h2>A Importância da Agricultura</h2>
+            <p>A agricultura desempenha um papel crucial em nossas vidas. Ela não apenas fornece alimentos essenciais, mas também contribui para a economia, cria empregos e preserva o meio ambiente. Práticas agrícolas sustentáveis ajudam a manter a qualidade do solo e da água, e são vitais para a conservação da biodiversidade.</p>
+            <p>O apoio à agricultura local e sustentável é fundamental para garantir a segurança alimentar e promover um futuro mais verde e saudável. Ao valorizar a agricultura, estamos investindo na nossa saúde e no bem-estar do planeta.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; @colegioest14Dezembro</p>
+    </footer>
+</body>
+</html>
